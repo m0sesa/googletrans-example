@@ -1,0 +1,44 @@
+5.  RTI1. How Often in a week do you see cases of RTIs (Sinusitis/CAP/Otitis Media) Infections?
+Please circle the selected answer (only one answer allowed)
+1.	Less than 5 patients per day
+2.	Between 5-10 patients per day
+3.	More than 10 patients per day
+
+6.  RTI2. What is your first-choice antibiotics in managing these patients?
+Please circle the selected answer (only one answer allowed)
+1.	Amoxicillin + Clavulanate
+2.	Amoxycillin alone
+3.	Cefuroxime
+4.	Azithromycin
+5.	Quinolone
+6.	Others
+
+7.	RTI3. Under what conditions do you prescribe by brand at first choice?
+Please circle the selected answer (only one answer allowed)
+1.	In most cases, I prescribe by brand
+2.	I rarely prescribe by brand
+3.	In Recurrent cases
+1. Name of Doctor
+
+2.  RTI4. Of every 10 Amoxicillin Clavulanate you prescribe, in how many do you insist on a particular brand?
+Please circle the selected answer (only one answer allowed)
+1.	1 - 3 of 10 prescriptions
+2.	4 -6 of 10 prescriptions
+3.	7 – 10 of 10 prescriptions
+4.	I have no preference
+
+3.	RTI5. What is your preferred brand of Amoxicillin Clavulanate?
+Please use lines to fill up a free-text answer
+
+4.	DI1. How many uncontrolled diabetic patients on 2 or more OADs do	 you see in a week?
+Please circle the selected answer (only one answer allowed)
+1.	Less than 5 patients per week
+2.	Between 5-10 patients per week
+3.	More than 10 patients per week
+
+5. DI2. What do you do for your patients when you have concerns about	 their glycemic control?
+Please circle the selected answer (only one answer allowed)
+1.	Add a 3rd oral agent
+2.	Initiate on Basal Insulin
+3.	Initiate on Premixed insulin
+4.	Refer to a Diabetes specialist
